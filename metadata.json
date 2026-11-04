@@ -1,0 +1,8 @@
+{
+  "name": "Remix HMG AI Enterprise Platform",
+  "description": "Global enterprise AI company management platform featuring autonomous AI executive workforce, Owner command authority, bilingual Arabic/English support, and high-security governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
